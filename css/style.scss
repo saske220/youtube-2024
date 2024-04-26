@@ -10,6 +10,9 @@ ul {
   padding: 0;
   margin: 0;
 }
+nav {
+  margin-top: 100px;
+}
 
 .body {
   &__flex {
@@ -149,14 +152,6 @@ ul {
   color: #fff;
   padding: 0px 5px;
   height: 50px;
-}
-
-.off {
-  opacity: 0.5;
-}
-
-.on {
-  opacity: 1;
 }
 
 .imgDesk {
